@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>arm22_description</name>
+  <version>0.0.0</version>
+  <description>The arm22_description package</description>
+
+  <maintainer email="burka@todo.todo">burka</maintainer>
+  <license>TODO</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <export>
+  </export>
+</package>

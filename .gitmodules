@@ -1,0 +1,25 @@
+[submodule "src/arm22_control"]
+	path = src/arm22_control
+	url = https://github.com/itu-rover/arm22_control
+[submodule "src/ros_control_boilerplate"]
+	path = src/ros_control_boilerplate
+	url = https://github.com/PickNikRobotics/ros_control_boilerplate
+	branch = melodic-devel
+[submodule "src/serial"]
+	path = src/serial
+	url = https://github.com/wjwwood/serial
+[submodule "src/rover_utils"]
+	path = src/rover_utils
+	url = https://github.com/burkap/rover_utils
+[submodule "src/arm22_teleop"]
+	path = src/arm22_teleop
+	url = https://github.com/itu-rover/arm22_teleop
+[submodule "src/arm22_moveit_config"]
+	path = src/arm22_moveit_config
+	url = https://github.com/itu-rover/arm22_moveit_config
+[submodule "src/arm22_description"]
+	path = src/arm22_description
+	url = https://github.com/itu-rover/arm22_description
+[submodule "src/arm22_manipulator_ikfast_plugin"]
+	path = src/arm22_manipulator_ikfast_plugin
+	url = https://github.com/itu-rover/arm22_manipulator_ikfast_plugin

@@ -1,0 +1,5 @@
+arm22_description
+/home/burka/deldisdis/arm22_ws/devel/.private/arm22_description/cmake.lock /home/burka/deldisdis/arm22_ws/devel/./cmake.lock
+/home/burka/deldisdis/arm22_ws/devel/.private/arm22_description/lib/pkgconfig/arm22_description.pc /home/burka/deldisdis/arm22_ws/devel/lib/pkgconfig/arm22_description.pc
+/home/burka/deldisdis/arm22_ws/devel/.private/arm22_description/share/arm22_description/cmake/arm22_descriptionConfig.cmake /home/burka/deldisdis/arm22_ws/devel/share/arm22_description/cmake/arm22_descriptionConfig.cmake
+/home/burka/deldisdis/arm22_ws/devel/.private/arm22_description/share/arm22_description/cmake/arm22_descriptionConfig-version.cmake /home/burka/deldisdis/arm22_ws/devel/share/arm22_description/cmake/arm22_descriptionConfig-version.cmake

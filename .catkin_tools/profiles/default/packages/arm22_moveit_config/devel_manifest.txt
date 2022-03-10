@@ -1,0 +1,5 @@
+arm22_moveit_config
+/home/burka/deldisdis/arm22_ws/devel/.private/arm22_moveit_config/cmake.lock /home/burka/deldisdis/arm22_ws/devel/./cmake.lock
+/home/burka/deldisdis/arm22_ws/devel/.private/arm22_moveit_config/lib/pkgconfig/arm22_moveit_config.pc /home/burka/deldisdis/arm22_ws/devel/lib/pkgconfig/arm22_moveit_config.pc
+/home/burka/deldisdis/arm22_ws/devel/.private/arm22_moveit_config/share/arm22_moveit_config/cmake/arm22_moveit_configConfig-version.cmake /home/burka/deldisdis/arm22_ws/devel/share/arm22_moveit_config/cmake/arm22_moveit_configConfig-version.cmake
+/home/burka/deldisdis/arm22_ws/devel/.private/arm22_moveit_config/share/arm22_moveit_config/cmake/arm22_moveit_configConfig.cmake /home/burka/deldisdis/arm22_ws/devel/share/arm22_moveit_config/cmake/arm22_moveit_configConfig.cmake

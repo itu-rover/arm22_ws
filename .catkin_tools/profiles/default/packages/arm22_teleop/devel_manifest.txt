@@ -1,0 +1,7 @@
+arm22_teleop
+/home/burka/deldisdis/arm22_ws/devel/.private/arm22_teleop/cmake.lock /home/burka/deldisdis/arm22_ws/devel/./cmake.lock
+/home/burka/deldisdis/arm22_ws/devel/.private/arm22_teleop/lib/pkgconfig/arm22_teleop.pc /home/burka/deldisdis/arm22_ws/devel/lib/pkgconfig/arm22_teleop.pc
+/home/burka/deldisdis/arm22_ws/devel/.private/arm22_teleop/lib/arm22_teleop/teleop_server /home/burka/deldisdis/arm22_ws/devel/lib/arm22_teleop/teleop_server
+/home/burka/deldisdis/arm22_ws/devel/.private/arm22_teleop/lib/arm22_teleop/test_node /home/burka/deldisdis/arm22_ws/devel/lib/arm22_teleop/test_node
+/home/burka/deldisdis/arm22_ws/devel/.private/arm22_teleop/share/arm22_teleop/cmake/arm22_teleopConfig.cmake /home/burka/deldisdis/arm22_ws/devel/share/arm22_teleop/cmake/arm22_teleopConfig.cmake
+/home/burka/deldisdis/arm22_ws/devel/.private/arm22_teleop/share/arm22_teleop/cmake/arm22_teleopConfig-version.cmake /home/burka/deldisdis/arm22_ws/devel/share/arm22_teleop/cmake/arm22_teleopConfig-version.cmake
